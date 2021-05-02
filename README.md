@@ -1,4 +1,4 @@
-# 🤖 Brizas-bot 🤖
+# ⚔ valhalla-bot-22 ⚔
 <h1 align="center">
     <p>
         <img src= "https://i.imgur.com/sm6LGkk.gif">
@@ -34,8 +34,7 @@ O Brizas-bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/
 [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
-git clone https://github.com/ianmsfvenom/Brizas-bot
-cd Brizas-bot
+git clone https://github.com/valhalla-22/valhalla-22
 bash install.sh
 npm install
 
@@ -82,26 +81,6 @@ nano config.js
 
 Bom, esse bot não teria sido feito sem a base do, [MhankBars](https://github.com/MhankBarBar/termux-wabot) então agradeço por tudo e por ele ter disponibilizado a base dele para mim, mesmo tendo modificado aos montes o bot, ainda sim devo todo o crédito pra ele por ter feito um bot foda.
 
----
-
-# 🥺 Donate
-[Paypal](https://www.paypal.com/donate/?hosted_button_id=QQ4MFP2AZV9TW)
-
-Pix
-
-<img src="https://i.imgur.com/891Ah3r.jpeg" width="300" >
-
----
-
-## <img src="https://media.tenor.com/images/3c73ab1a2d871e65d0435c28f72f2944/tenor.gif" width="35px"> Contribuição
-
-[KillovSky](https://github.com/KillovSky/iris)
-
-[Gabriel](wa.me/+5511946817667)
-
-[Lucass](https://luc4rio.herokuapp.com/api)
-
-[Thoth](wa.me/+55d11930758170)
 
 ---
 # 🤝 Contato
