@@ -10,7 +10,7 @@ const  gimagenotregister  =  true
 const  sgooglenotregister  =  true
 // cuando no hay ningún comando registrado, el bot busca una búsqueda en Google
 
-const  msgwelcomeimg  =  ( número ,  nombre de grupo )  =>  {
+const  msgwelcomeimg  =  ( número ,  nombre de grupo )  =>  { 5491166744449 , ༒⃟⃢❰❍☬✵VȺŁĦȺŁŁȺ✵☬➣⃟۝⃟⁩
     return  `Bienvenido $ { número } \ n \ nEscribe el menú $ { prefijo } para la lista de comandos`
 }
 // Texto de bienvenida en la imagen cuando la bienvenida está activada
