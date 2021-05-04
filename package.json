@@ -1,5 +1,5 @@
 {
-  "name": "brizas-bot",
+  "name": "valhalla-bot",
   "version": "2.0.0",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "BrizasBot",
+  "author": "Valhalla-bot",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
@@ -59,10 +59,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ianmsfvenom/Brizas-bot.git"
+    "url": "git+https://github.com/valhalla-22/valhalla-22.git"
   },
   "bugs": {
-    "url": "https://github.com/ianmsfvenom/Brizas-bot/issues"
+    "url": "https://github.com/valhalla-22/valhalla-22/issues"
   },
-  "homepage": "https://github.com/ianmsfvenom/Brizas-bot#readme"
+  "homepage": "https://github.com/valhalla-22/valhalla-22#readme"
 }
